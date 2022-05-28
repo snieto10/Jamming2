@@ -15,7 +15,7 @@ class App extends React.Component {
         <div className="App-playlist">
         <SearchResults />
         <Playlist />
-      </div>
+      </div>    
     </div>
   </div>
     );
